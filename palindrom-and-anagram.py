@@ -22,8 +22,8 @@ inverted_word = "".join(reversed(word)).lower().replace(" ", "")
 print("Twoje wyrażenie wspak to: " + inverted_word)
 
 if word == inverted_word:
-    print("Twoje wyrażenie to palidrom!")
+    print("Twoje wyrażenie to palindrom!")
     time.sleep(3)
     webbrowser.open("https://poocoo.pl/scrabble-slowa-z-liter/" + word)
 else:
-    print("Twoje wyrażenie nie jest palidromem.")
+    print("Twoje wyrażenie nie jest palindromem.")
