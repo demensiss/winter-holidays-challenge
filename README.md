@@ -33,3 +33,15 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 * Convert units from, for example: Calvin to Celsius
 * Hard version: Display the current time for cities in different time zones (e.g. Beijing, Sydney, Washington, London)
 
+### I learned today:
+
+* library requests
+* library datetime
+* library random
+
+### Helpful links:
+
+* https://2.python-requests.org/pl/latest/user/quickstart.html#wykonaj-zadanie
+* https://www.w3schools.com/python/python_datetime.asp
+* https://pl.python.org/docs/lib/module-random.html
+
