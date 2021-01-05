@@ -6,6 +6,7 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 ## Table of contents
 
 * Day 1: Palindromes and anagrams
+* Day 2: Page from Callendar
 
 ## Day 1: Palindromes and anagrams
 
@@ -22,3 +23,13 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 * Regular Expressions or regex
 * time function that delayed opening of the browser
 * how to open the url via the application
+
+## Day 2: Page from Callendar
+
+### Requirements:
+
+* Write a program that, when started, displays the current date, time, day of the week and weather, i.e. temperature and pressure in a given city.
+* Use requests and datetime.
+* Convert units from, for example: Calvin to Celsius
+* Hard version: Display the current time for cities in different time zones (e.g. Beijing, Sydney, Washington, London)
+
