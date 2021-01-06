@@ -7,6 +7,7 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 
 * Day 1: Palindromes and anagrams
 * Day 2: Page from Callendar
+* Day 3: Mail Sender
 
 ## Day 1: Palindromes and anagrams
 
@@ -45,3 +46,17 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 * https://www.w3schools.com/python/python_datetime.asp
 * https://pl.python.org/docs/lib/module-random.html
 
+## Day 3: Mail Sender
+
+Write a simple program that will send personalized mailing to selected people.
+
+### Requirements:
+
+* database: excel or csv file with two columns with the headings "email" and "name and surname"
+* email subject: “Your image”
+* personalized email content: “Hi {Name}! it’s file generated for you”.
+* in addition to the mail: graphic file named "{Name} _ {Surname} _image.png"
+* Properly secure the program (e.g. missing Excel file, missing data in Excel, no png file)
+* protect against spam (e.g. one e-mail sent every second)
+* Hard version: add an option to send emails with HTML content
+* Hard version: add an email validator
