@@ -5,9 +5,10 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 
 ## Table of contents
 
-* Day 1: Palindromes and anagrams
-* Day 2: Page from Callendar
-* Day 3: Mail Sender
+* [Day 1: Palindromes and anagrams] (## Day 1: Palindromes and anagrams)
+* [Day 2: Page from Callendar] (## Day 2: Page from Callendar)
+* [Day 3: Mail Sender] (## Day 3: Mail Sender)
+* [Day 4: BMI Calculator (## Day 4: BMI Calculator)
 
 ## Day 1: Palindromes and anagrams
 
@@ -60,3 +61,16 @@ Write a simple program that will send personalized mailing to selected people.
 * protect against spam (e.g. one e-mail sent every second)
 * Hard version: add an option to send emails with HTML content
 * Hard version: add an email validator
+
+## Day 4: BMI Calculator
+
+Write a program that calculates the BMI index based on weight [kg] and height [cm].
+
+### Requirements:
+
+* the program gets the necessary information from the user
+* the program informs the user to what extent is its result
+* then the program randomizes one of the physical activities and the time of its execution
+* the execution time cannot be longer than the free time declared by the user
+* create a training plan for 7 days and save the results in a .txt file
+* Hard version: Prepare a varied training plan taking into account the maximum time entered by the user. It should be a few physical activities that will fill the entire daily amount of time, have a certain minimum length (e.g. 10 minutes). Activities cannot be repeated in one day.
