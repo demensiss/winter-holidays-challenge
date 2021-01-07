@@ -5,10 +5,10 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 
 ## Table of contents
 
-* [Day 1: Palindromes and anagrams] (## Day 1: Palindromes and anagrams)
-* [Day 2: Page from Callendar] (## Day 2: Page from Callendar)
-* [Day 3: Mail Sender] (## Day 3: Mail Sender)
-* [Day 4: BMI Calculator (## Day 4: BMI Calculator)
+* [Day 1: Palindromes and anagrams] (https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-1-palindromes-and-anagrams)
+* [Day 2: Page from Callendar] (https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-2-page-from-callendar)
+* [Day 3: Mail Sender] (https://github.com/demensiss/winter-holidays-challenge#day-3-mail-sender)
+* [Day 4: BMI Calculator (https://github.com/demensiss/winter-holidays-challenge#day-4-bmi-calculator)
 
 ## Day 1: Palindromes and anagrams
 
