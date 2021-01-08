@@ -67,6 +67,8 @@ Hard version under development.
 
 Write a simple program that will send personalized mailing to selected people.
 
+[Solving the task](https://github.com/demensiss/winter-holidays-challenge/blob/master/mail-sender.py)
+
 ### Requirements:
 
 * [ ] database: excel or csv file with two columns with the headings "email" and "name and surname"
