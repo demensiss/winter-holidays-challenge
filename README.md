@@ -9,7 +9,7 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 * [Day 2: Page from Callendar](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-2-page-from-callendar)
 * [Day 3: Mail Sender](https://github.com/demensiss/winter-holidays-challenge#day-3-mail-sender)
 * [Day 4: BMI Calculator](https://github.com/demensiss/winter-holidays-challenge#day-4-bmi-calculator)
-* [## Day 5: Movie Finder]()
+* [Day 5: Movie Finder](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-5-movie-finder)
 
 ## Day 1: Palindromes and anagrams
 
@@ -17,12 +17,12 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 
 ### Requirements:
 
-[x] Write a program that asks for a string.
-[x] The program displays this string inverted.
-[x] The program checks if the string is a palindrome and displays a message informing you about it.
-[x] When checking the string, the program ignores capital letters and non-letter characters.
-[x] The program calls a website that will display anagrams of the given text.
-[ ] Hard version: Search for anagrams and words formed after removing letters from the given word yourself
+* [x] Write a program that asks for a string.
+* [x] The program displays this string inverted.
+* [x] The program checks if the string is a palindrome and displays a message informing you about it.
+* [x] When checking the string, the program ignores capital letters and non-letter characters.
+* [x] The program calls a website that will display anagrams of the given text.
+* [ ] Hard version: Search for anagrams and words formed after removing letters from the given word yourself
 
 ### Program status:
 
@@ -41,10 +41,10 @@ Hard version under development.
 
 ### Requirements:
 
-[x] Write a program that, when started, displays the current date, time, day of the week and weather, i.e. temperature and pressure in a given city.
-[x] Use requests and datetime.
-[x] Convert units from, for example: Calvin to Celsius
-[ ] Hard version: Display the current time for cities in different time zones (e.g. Beijing, Sydney, Washington, London)
+* [x] Write a program that, when started, displays the current date, time, day of the week and weather, i.e. temperature and pressure in a given city.
+* [x] Use requests and datetime.
+* [x] Convert units from, for example: Calvin to Celsius
+* [ ] Hard version: Display the current time for cities in different time zones (e.g. Beijing, Sydney, Washington, London)
 
 ### Program status:
 
@@ -69,14 +69,14 @@ Write a simple program that will send personalized mailing to selected people.
 
 ### Requirements:
 
-[ ] database: excel or csv file with two columns with the headings "email" and "name and surname"
-[x] email subject: “Your image”
-[x] personalized email content: “Hi {Name}! it’s file generated for you”.
-[x] in addition to the mail: graphic file named "{Name} _ {Surname} _image.png"
-[x] properly secure the program (e.g. missing Excel file, missing data in Excel, no png file)
-[x] protect against spam (e.g. one e-mail sent every second)
-[ ] Hard version: add an option to send emails with HTML content
-[ ] Hard version: add an email validator
+* [ ] database: excel or csv file with two columns with the headings "email" and "name and surname"
+* [x] email subject: “Your image”
+* [x] personalized email content: “Hi {Name}! it’s file generated for you”.
+* [x] in addition to the mail: graphic file named "{Name} _ {Surname} _image.png"
+* [x] properly secure the program (e.g. missing Excel file, missing data in Excel, no png file)
+* [x] protect against spam (e.g. one e-mail sent every second)
+* [ ] Hard version: add an option to send emails with HTML content
+* [ ] Hard version: add an email validator
 
 ### Program status:
 
@@ -88,12 +88,12 @@ Write a program that calculates the BMI index based on weight [kg] and height [c
 
 ### Requirements:
 
-[ ] the program gets the necessary information from the user
-[ ] the program informs the user to what extent is its result
-[ ] then the program randomizes one of the physical activities and the time of its execution
-[ ] the execution time cannot be longer than the free time declared by the user
-[ ] create a training plan for 7 days and save the results in a .txt file
-[ ] Hard version: Prepare a varied training plan taking into account the maximum time entered by the user. It should be a few physical activities that will fill the entire daily amount of time, have a certain minimum length (e.g. 10 minutes). Activities cannot be repeated in one day.
+* [ ] the program gets the necessary information from the user
+* [ ] the program informs the user to what extent is its result
+* [ ] then the program randomizes one of the physical activities and the time of its execution
+* [ ] the execution time cannot be longer than the free time declared by the user
+* [ ] create a training plan for 7 days and save the results in a .txt file
+* [ ] Hard version: Prepare a varied training plan taking into account the maximum time entered by the user. It should be a few physical activities that will fill the entire daily amount of time, have a certain minimum length (e.g. 10 minutes). Activities cannot be repeated in one day.
 
 ### Program status:
 
@@ -105,9 +105,9 @@ A simple movie search program similar to the filmweb site.
 
 ### Requirements:
 
-[ ] using the API search for all parts of the movie specified in the search
-[ ] filter out incorrect search results
-[ ] display basic information for each movie, e.g. year, length, rating, list of actors
+* [ ] using the API search for all parts of the movie specified in the search
+* [ ] filter out incorrect search results
+* [ ] display basic information for each movie, e.g. year, length, rating, list of actors
 
 ### Program status:
 
