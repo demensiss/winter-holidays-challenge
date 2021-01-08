@@ -82,24 +82,53 @@ Write a simple program that will send personalized mailing to selected people.
 
 ### Program status:
 
-Program under development.
+Fix the error when opening excel file. The program is not complete and reports errors.
+In search of a solution.
+
+### I learned today:
+
+* email and email.message module
+* smtplib module
+* ssl module
+* openpyxl module
+* getpass module
+* imghdr module
+* os module
+
+### Helpful link:
+
+* https://realpython.com/python-send-email/
+* http://www.w3big.com/pl/python/python-email.html
+* https://qabrio.pl/openpyxl-2/
+* https://docs.python.org/3/library/os.html
 
 ## Day 4: BMI Calculator
 
 Write a program that calculates the BMI index based on weight [kg] and height [cm].
+[Solving the task](https://github.com/demensiss/winter-holidays-challenge/blob/master/calculator-bmi.py)
 
 ### Requirements:
 
-* [ ] the program gets the necessary information from the user
-* [ ] the program informs the user to what extent is its result
-* [ ] then the program randomizes one of the physical activities and the time of its execution
-* [ ] the execution time cannot be longer than the free time declared by the user
-* [ ] create a training plan for 7 days and save the results in a .txt file
+* [x] the program gets the necessary information from the user
+* [x] the program informs the user to what extent is its result
+* [x] then the program randomizes one of the physical activities and the time of its execution
+* [x] the execution time cannot be longer than the free time declared by the user
+* [x] create a training plan for 7 days and save the results in a .txt file
 * [ ] Hard version: Prepare a varied training plan taking into account the maximum time entered by the user. It should be a few physical activities that will fill the entire daily amount of time, have a certain minimum length (e.g. 10 minutes). Activities cannot be repeated in one day.
 
 ### Program status:
 
-Program under development.
+The basic requirements are made. The program doesn't report errors. 
+Hard version under development.
+
+### I learned today:
+
+* random module
+
+### Helpful links:
+
+* https://docs.python.org/3/library/random.html
+* https://www.w3schools.com/python/module_random.asp
 
 ## Day 5: Movie Finder
 
