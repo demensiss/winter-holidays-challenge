@@ -53,9 +53,9 @@ Hard version under development.
 
 ### I learned today:
 
-* library requests
-* library datetime
-* library random
+* requests module
+* datetime module
+* random module
 
 ### Helpful links:
 
@@ -95,7 +95,7 @@ In search of a solution.
 * imghdr module
 * os module
 
-### Helpful link:
+### Helpful links:
 
 * https://realpython.com/python-send-email/
 * http://www.w3big.com/pl/python/python-email.html
@@ -105,6 +105,7 @@ In search of a solution.
 ## Day 4: BMI Calculator
 
 Write a program that calculates the BMI index based on weight [kg] and height [cm].
+
 [Solving the task](https://github.com/demensiss/winter-holidays-challenge/blob/master/calculator-bmi.py)
 
 ### Requirements:
