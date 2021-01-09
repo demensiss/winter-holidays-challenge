@@ -135,12 +135,23 @@ Hard version under development.
 
 A simple movie search program similar to the filmweb site.
 
+[Solving the task](https://github.com/demensiss/winter-holidays-challenge/blob/master/movie-finder.py)
+
 ### Requirements:
 
-* [ ] using the API search for all parts of the movie specified in the search
-* [ ] filter out incorrect search results
-* [ ] display basic information for each movie, e.g. year, length, rating, list of actors
+* [x] using the API search for all parts of the movie specified in the search
+* [x] filter out incorrect search results
+* [x] display basic information for each movie, e.g. year, length, rating, list of actors
 
 ### Program status:
 
-Program under development.
+All requirements have been met.
+
+### I learned today:
+
+* implementing api with a search engine
+
+### Helpful links:
+
+* https://rapidapi.com/blog/imdb-api-python/
+* https://rapidapi.com/blog/how-to-use-imdb-api/
