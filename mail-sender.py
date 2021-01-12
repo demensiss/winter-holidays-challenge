@@ -26,7 +26,8 @@ from openpyxl import load_workbook
 # Getting data from an excel file
 
 try:
-    wb = load_workbook('mail.xlsx')
+    file = "ferie-challenge\winter-holidays-challenge\database\mail.xlsx"
+    wb = load_workbook(file)
     ws = wb.get_sheet_by_name("Arkusz1")
 except Exception:
     print("The file doesn't exsit")
@@ -60,7 +61,8 @@ text = message.get_content().as_string()
 
 # Adding an attachment
 
-image = f"{d[0]}_{d[1]}_image.png"
+
+image = f"ferie-challenge\winter-holidays-challenge\images\{d[0]}_{d[1]}_image.png"
 
 try:
     with open(image, "rb") as pi:
