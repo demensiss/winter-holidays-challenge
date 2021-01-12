@@ -1,7 +1,8 @@
-# Winter Holidays Challenge 2021
+# Winter Holidays Challenge 2021 with Hard Coder
 10 days and 10 application of coding in Python
 
 Event link: https://www.facebook.com/events/843253696243420?active_tab=about
+
 
 ## Table of contents
 
@@ -10,8 +11,13 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 * [Day 3: Mail Sender](https://github.com/demensiss/winter-holidays-challenge#day-3-mail-sender)
 * [Day 4: BMI Calculator](https://github.com/demensiss/winter-holidays-challenge#day-4-bmi-calculator)
 * [Day 5: Movie Finder](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-5-movie-finder)
+* [Day 6: Image Resizer](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-6-image-resizer)
+* [Day 7: Password Generator](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-7-password-generator)
+
 
 ## Day 1: Palindromes and anagrams
+
+A simple program that checks if a given word is a palindrome and creates anagrams from the letters of that word.
 
 [Solving the task](https://github.com/demensiss/winter-holidays-challenge/blob/master/palindrom-and-anagram.py)
 
@@ -35,7 +41,10 @@ Hard version under development.
 * time function that delayed opening of the browser
 * how to open the url via the application
 
+
 ## Day 2: Page from Callendar
+
+A simple program showing a card from the calendar, i.e. the current date and weather in the selected location.
 
 [Solving the task](https://github.com/demensiss/winter-holidays-challenge/blob/master/page-from-callendar.py)
 
@@ -63,9 +72,10 @@ Hard version under development.
 * https://www.w3schools.com/python/python_datetime.asp
 * https://pl.python.org/docs/lib/module-random.html
 
+
 ## Day 3: Mail Sender
 
-Write a simple program that will send personalized mailing to selected people.
+A simple program that will send personalized mailing to selected people.
 
 [Solving the task](https://github.com/demensiss/winter-holidays-challenge/blob/master/mail-sender.py)
 
@@ -102,9 +112,10 @@ In search of a solution.
 * https://qabrio.pl/openpyxl-2/
 * https://docs.python.org/3/library/os.html
 
+
 ## Day 4: BMI Calculator
 
-Write a program that calculates the BMI index based on weight [kg] and height [cm].
+Program that calculates the BMI index based on weight [kg] and height [cm].
 
 [Solving the task](https://github.com/demensiss/winter-holidays-challenge/blob/master/calculator-bmi.py)
 
@@ -131,6 +142,7 @@ Hard version under development.
 * https://docs.python.org/3/library/random.html
 * https://www.w3schools.com/python/module_random.asp
 
+
 ## Day 5: Movie Finder
 
 A simple movie search program similar to the filmweb site.
@@ -155,3 +167,36 @@ All requirements have been met.
 
 * https://rapidapi.com/blog/imdb-api-python/
 * https://rapidapi.com/blog/how-to-use-imdb-api/
+
+
+## Day 6: Image Resizer
+
+A simple program that reduces the size of images in the specified folder.
+
+### Requirements:
+
+* [ ] the program reads all graphic files in the selected location (in specific formats, e.g. jpg, png, bmp etc.)
+* [ ] the program reduces the resolution of images by 50%
+* [ ] the program saves the reduced images in the "smaller" subdirectory with the appropriate names
+* [ ] use pillow or another library to work with images
+* [ ] Hard version: Calculate how much disk space can be saved after compression (read the size of files in the original folder and "smaller" and compare both values - absolute and in %)
+
+### Program status:
+
+Program in progress.
+
+
+## Day 7: Password Generator
+
+A simple program that generates a random string of characters taking into account the indicated requirements.
+
+### Requirements:
+
+* [ ] write a program to generate random passwords of user-specified length
+* [ ] the password must meet the given conditions, e.g. at least one number, at least one uppercase and one lowercase letter
+* [ ] use the string and secrets modules
+* [ ] Hard version: After generating the password, copy it to the system clipboard
+
+### Program status:
+
+Program in progress.
