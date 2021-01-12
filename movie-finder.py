@@ -1,3 +1,5 @@
+# 5 of 10 application - Winter Holidays Challenge 2021
+
 # Przy wykorzystaniu API (np. IMDB) wyszukaj wszystkie części filmu zadanego w wyszukiwaniu 
 # (np. Rambo, Scary Movie, Shrek). Można przyjąć założenie, że wszystkie filmy “z serii” muszą zawierać 
 # szukany ciąg - czasem zdarzają się błędne wyniki wyszukiwania z baz, można je spróbować odfiltrować. 

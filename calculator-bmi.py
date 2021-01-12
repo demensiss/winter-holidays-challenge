@@ -1,4 +1,4 @@
-# 4 dzień wyzwania Ferie Challange 2021
+# 4 of 10 application - Winter Holidays Challenge 2021
 
 # Napisz program, który na podstawie masy [kg] i wzrostu [cm] wylicza wskaźnik BMI 
 # (https://en.wikipedia.org/wiki/Body_mass_index) oraz informuje użytkownika, w jakim jest zakresie. 

@@ -1,4 +1,4 @@
-# Program 3 z 10 w ramach Ferie Challange 2021
+# 3 of 10 application - Winter Holidays Challenge 2021
 
 # Stwórz prosty program, który będzie wysyłał spersonalizowany mailing do wybranych osób. “Bazą danych” 
 # jest plik Excela (aby było “ciekawiej” 😉 ) lub CSV, zawierający dwie kolumny z nagłówkami: “E-mail” oraz 

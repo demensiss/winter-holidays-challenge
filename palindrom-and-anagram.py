@@ -1,4 +1,4 @@
-# to jest 1 z 10 zadań w ramach FerieChallange2021 
+# 1 of 10 application - Winter Holidays Challenge 2021
 
 # Napisz program, który prosi użytkownika o podanie dowolnego napisu. 
 # Następnie program wyświetla na ekranie to słowo wspak (od prawej do lewej) 

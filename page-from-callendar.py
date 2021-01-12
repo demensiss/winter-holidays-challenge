@@ -1,4 +1,4 @@
-# program 2 z 10 w ramach FerieChallenge2021
+# 2 of 10 application - Winter Holidays Challenge 2021
 
 # Napisz program, który po uruchomieniu wyświetla w czytelnej formie aktualną datę, godzinę, dzień tygodnia 
 # i pogodę/temperaturę/ciśnienie w zadanym mieście 
