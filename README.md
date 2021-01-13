@@ -13,6 +13,7 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 * [Day 5: Movie Finder](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-5-movie-finder)
 * [Day 6: Image Resizer](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-6-image-resizer)
 * [Day 7: Password Generator](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-7-password-generator)
+* [Day 8: Distance Calculator](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-8-distance-calculator)
 
 
 ## Day 1: Palindromes and anagrams
@@ -196,6 +197,23 @@ A simple program that generates a random string of characters taking into accoun
 * [ ] the password must meet the given conditions, e.g. at least one number, at least one uppercase and one lowercase letter
 * [ ] use the string and secrets modules
 * [ ] Hard version: After generating the password, copy it to the system clipboard
+
+### Program status:
+
+Program in progress.
+
+
+## Day 8: Distance Calculator
+
+The program calculates the linear distance between any two points on the map.
+
+### Requirements:
+
+* [ ] write a program that calculates the linear distance between any two points on the map, using their geographic coordinates
+* [ ] use any algorithm, e.g. https://pl.wikibooks.org/wiki/Astronomiczne_podstawy_geografii/Odleg%C5%82o%C5%9Bci?fbclid=IwAR2RXbacsE_nwQFpSDGuiYQlcvS0YCmTWjg3Qzvs92pZXUf4hLgTdoHjmtA
+* [ ] use the API (e.g. https://rapidapi.com/trueway/api/trueway-geocoding)
+* [ ] calculate the distance between your address and landmarks such as the Eiffel Tower or the Taj Mahal.
+* [ ] Hard version: instead of entering your address, use geolocation
 
 ### Program status:
 
