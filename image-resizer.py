@@ -12,7 +12,7 @@ from PIL import Image
 import glob
 import os
 
-folder = "winter-holidays-challenge/images"
+folder = r"D:\programming\my-application\python\ferie-challenge\winter-holidays-challenge\images"
 os.chdir(folder)
 
 new_folder = "smaller"
