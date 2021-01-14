@@ -13,14 +13,11 @@
 # Propozycje rozszerzenia: dodaj opcję wysyłania maili z treścią w HTML oraz walidator poprawności maila 
 # (np. używając wyrażeń regularnych - moduł re).
 
-import email 
 import smtplib
 import ssl
 import getpass
 import imghdr
-import os
 from email.message import EmailMessage
-from openpyxl import Workbook
 from openpyxl import load_workbook
 
 # Getting data from an excel file
@@ -78,4 +75,3 @@ context = ssl.create_default_context()
 with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
     server.login(sender_email, password)
     server.sendmail(sender_email, message["From"], text)
-
