@@ -14,6 +14,7 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 * [Day 6: Image Resizer](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-6-image-resizer)
 * [Day 7: Password Generator](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-7-password-generator)
 * [Day 8: Distance Calculator](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-8-distance-calculator)
+* [Day 9: House Library](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-9-house-library)
 
 
 ## Day 1: Palindromes and anagrams
@@ -218,3 +219,26 @@ The program calculates the linear distance between any two points on the map.
 ### Program status:
 
 Program in progress.
+
+
+## Day 9: House Library
+
+Library program that shows the list of books available in the library and allows you to borrow them.
+
+### Requirements:
+
+* [ ] write a program that imports the catalog from any library (e.g. API of the National Library http://data.bn.org.pl/
+* [ ] the user can name the author and the program will show him what books of that author are in the library's collection
+* [ ] give the user the ability to "check out" and "return" books
+* [ ] the borrowed items are stored in a file containing a certain identifying data set, e.g. title, author, publisher, year of publication (you can also use a local database)
+* [ ] when "borrowed", books are added to the file
+* [ ] when "returned" books are removed from the file
+* [ ] Hard version: Secure the program in such a way that when downloading data, it also recognizes local “borrowed” items and does not show them as search results.
+
+### Program status:
+
+Program in progress.
+
+### Helpful links:
+
+* http://data.bn.org.pl/api/bibs.json?author=Andrzej+Sapkowski&amp;kind=ksi%C4%85%C5%BCka
