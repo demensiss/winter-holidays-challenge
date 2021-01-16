@@ -15,6 +15,7 @@ Event link: https://www.facebook.com/events/843253696243420?active_tab=about
 * [Day 7: Password Generator](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-7-password-generator)
 * [Day 8: Distance Calculator](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-8-distance-calculator)
 * [Day 9: House Library](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-9-house-library)
+* [Day 10: Summary](https://github.com/demensiss/winter-holidays-challenge/blob/master/README.md#day-10-summary)
 
 
 ## Day 1: Palindromes and anagrams
@@ -242,3 +243,23 @@ Program in progress.
 ### Helpful links:
 
 * http://data.bn.org.pl/api/bibs.json?author=Andrzej+Sapkowski&amp;kind=ksi%C4%85%C5%BCka
+
+
+## Day 10: Summary
+
+Program summary of the winter break challenge with Hard Coder
+
+### Requirements:
+
+* [ ] the program reads all files created by you during #feriechallenge - searches local directories or connects to Github for this purpose
+* [ ] do not list all files manually
+* [ ] using its own method of cataloging programs, the machine reads and displays:
+  * [ ] how many tasks out of 10 have code written
+  * [ ] the number of lines of code written in each problem (without taking into account the empty ones!) and the total number of lines
+  * [ ] the number of unique words used in all programs and the most common word
+  * [ ] list and number of keywords used during the entire challenge (use the keywords module)
+  * [ ] list and number of imported modules in all programs
+
+### Program status:
+
+Program in progress.
