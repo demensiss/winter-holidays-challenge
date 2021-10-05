@@ -195,15 +195,20 @@ A simple program that generates a random string of characters taking into accoun
 
 ### Requirements:
 
-* [ ] write a program to generate random passwords of user-specified length
-* [ ] the password must meet the given conditions, e.g. at least one number, at least one uppercase and one lowercase letter
-* [ ] use the string and secrets modules
-* [ ] Hard version: After generating the password, copy it to the system clipboard
+* [X] write a program to generate random passwords of user-specified length
+* [X] the password must meet the given conditions, e.g. at least one number, at least one uppercase and one lowercase letter
+* [X] use the string and secrets modules
+* [X] Hard version: After generating the password, copy it to the system clipboard
 
 ### Program status:
 
-Program in progress.
+All requirements have been met.
 
+### I learned today:
+
+* string library methods
+* concatenation of strings with the method .join()
+* copying information to the system clipboard
 
 ## Day 8: Distance Calculator
 
